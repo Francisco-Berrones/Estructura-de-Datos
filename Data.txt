@@ -1,0 +1,31 @@
+El animal nada?
+Es mamifero?
+Es muy inteligente?
+Delfin
+#
+#
+Ballena
+#
+#
+Tiene tentaculos?
+Tiene 3 corazones?
+Pulpo
+#
+#
+Medusa
+#
+#
+Pez
+#
+#
+El animal ruge?
+Puma
+#
+#
+El animal maulla?
+Gato
+#
+#
+Perro
+#
+#
